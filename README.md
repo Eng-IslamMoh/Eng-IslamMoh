@@ -1,8 +1,11 @@
 # Hi, I’m Islam Mohamed 👋
 
 ## 👨‍💻 About Me
-I’m a passionate **Backend Developer** with experience in designing and building robust, scalable, and efficient server-side applications.  
-I have strong expertise in **PHP**, **Laravel**, **Node.js**, and **Express.js**, and I’m always eager to explore and implement new backend technologies.
+I am a dedicated **Backend Developer** with a Bachelor's degree in **Computer Science** and a passion for crafting scalable and high-performance backend systems.  
+
+With extensive experience in **PHP** and **Node.js**, I have deep expertise in frameworks like **Laravel** and **Express.js**, enabling me to design and implement robust, secure, and efficient APIs. I have a proven track record of delivering innovative solutions, optimizing database operations, and enhancing system performance.  
+
+I thrive in collaborative team environments where I can leverage my technical expertise to drive innovation, streamline workflows, and contribute to impactful projects.
 
 ## 🚀 Interests
 - Crafting clean, maintainable, and high-performance backend solutions.  
