@@ -17,7 +17,7 @@ I aim to grow as a **backend developer** in a dynamic and innovative environment
 
 ## 🔗 How to Reach Me
 - 💼 [LinkedIn Profile](https://www.linkedin.com/in/eng-islammohhafez)  
-- 📧 [Email](islam.mohhafez@gmail.com)  
+- 📧 [islam.mohhafez@gmail.com](islam.mohhafez@gmail.com)  
 
 ---
 
