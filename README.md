@@ -35,6 +35,14 @@ I aim to continue growing as a **Backend Developer** by collaborating with talen
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="86" height="86" />
 </div>
 
+<div style="display:flex; align-items:center; gap:12px; flex-wrap:wrap;">
+  <img src="URL_TO_NODEJS_GIF" alt="Node.js" width="64" height="64" />
+  <img src="URL_TO_VUEJS_GIF" alt="Vue.js" width="64" height="64" />
+  <img src="URL_TO_BOOTSTRAP_GIF" alt="Bootstrap" width="64" height="64" />
+  <img src="URL_TO_TAILWIND_GIF" alt="Tailwind CSS" width="64" height="64" />
+</div>
+
+
 ---
 
 ## 🔗 How to Reach Me
