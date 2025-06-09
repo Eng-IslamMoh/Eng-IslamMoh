@@ -15,7 +15,6 @@ I thrive in collaborative environments where I can apply my technical expertise,
 ## 🌟 Goals
 I aim to continue growing as a **Backend Developer** by collaborating with talented teams on meaningful projects, while constantly learning and improving my technical and leadership skills.
 
---
 
 ## 🤹‍♀️ Skills
 <div style="display: flex; align-items: flex-start; gap: 10px;">
@@ -30,8 +29,6 @@ I aim to continue growing as a **Backend Developer** by collaborating with talen
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="86" height="86" />
 </div>
 
-
----
 
 ## 🔗 How to Reach Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/eng-islammohhafez)  
