@@ -5,7 +5,6 @@ With extensive experience in **PHP**, **Node.js**, and modern frameworks like **
 
 I thrive in collaborative environments where I can apply my technical expertise, solve complex challenges, and contribute to impactful projects.
 
----
 
 ## 🚀 Interests
 - Crafting clean, maintainable, and high-performance backend systems  
