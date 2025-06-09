@@ -27,6 +27,25 @@ I aim to continue growing as a **Backend Developer** by collaborating with talen
   <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="86" height="86" />
   <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier" width="86" height="86" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="86" height="86" />
+
+    <!-- ثابتة -->
+  <img src="https://yourcdn.com/icons/php.svg" alt="PHP" width="64" height="64" />
+  <img src="https://yourcdn.com/icons/laravel.svg" alt="Laravel" width="64" height="64" />
+  <img src="https://yourcdn.com/icons/livewire.svg" alt="Livewire" width="64" height="64" />
+  <img src="https://yourcdn.com/icons/filament.svg" alt="Filament" width="64" height="64" />
+  <img src="https://yourcdn.com/icons/nestjs.svg" alt="Nest.js" width="64" height="64" />
+  <img src="https://yourcdn.com/icons/express.svg" alt="Express" width="64" height="64" />
+  <img src="https://yourcdn.com/icons/pug.svg" alt="Pug" width="64" height="64" />
+  
+  <!-- أدوات -->
+  <img src="https://yourcdn.com/icons/git.svg" alt="Git" width="64" height="64" />
+  <img src="https://yourcdn.com/icons/jira.svg" alt="Jira" width="64" height="64" />
+  <img src="https://yourcdn.com/icons/clickup.svg" alt="ClickUp" width="64" height="64" />
+  <img src="https://yourcdn.com/icons/trello.svg" alt="Trello" width="64" height="64" />
+  <img src="https://yourcdn.com/icons/slack.svg" alt="Slack" width="64" height="64" />
+  <img src="https://yourcdn.com/icons/figma.svg" alt="Figma" width="64" height="64" />
+
+
 </div>
 
 
