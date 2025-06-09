@@ -23,12 +23,17 @@ I aim to continue growing as a **Backend Developer** by collaborating with talen
 <div style="display: flex; align-items: flex-start; gap: 10px;">
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="86" height="86" />
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="86" height="86" />
+  <img src="https://techstack-generator.vercel.app/node-icon.svg" alt="Node.js" width="64" height="64" />
+  <img src="https://techstack-generator.vercel.app/vue-icon.svg" alt="Vue.js" width="64" height="64" />
   <img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="Jest" width="86" height="86" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySql" width="86" height="86" />
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="86" height="86" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="86" height="86" />
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="86" height="86" />
+  <img src="https://techstack-generator.vercel.app/bootstrap-icon.svg" alt="Bootstrap" width="64" height="64" />
+  <img src="https://techstack-generator.vercel.app/tailwind-icon.svg" alt="Tailwind" width="64" height="64" />
+  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier" width="86" height="86" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="86" height="86" />
 </div>
-
 
 ---
 
