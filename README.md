@@ -23,7 +23,7 @@ I aim to continue growing as a **Backend Developer** by collaborating with talen
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="86" height="86" />
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="86" height="86" />
   <img src="https://nodejs.org/static/images/logo.svg" alt="Node.js" width="64" height="64" />\
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="64" height="64" />
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="64" height="64" /> -->
   <img src="https://nestjs.com/logo-small-gradient.d792062c.svg" alt="Nest.js" width="64" height="64" />
   <img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="Jest" width="86" height="86" />
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySql" width="86" height="86" />
