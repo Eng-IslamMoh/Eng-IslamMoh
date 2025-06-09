@@ -19,37 +19,28 @@ I aim to continue growing as a **Backend Developer** by collaborating with talen
 ## 🤹‍♀️ Skills
 <div style="display: flex; align-items: flex-start; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="64" height="64" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="64" height="64" />
+  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/laravel.svg" alt="Laravel" width="64" height="64" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="86" height="86" />
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="86" height="86" />
+  <img src="https://nodejs.org/static/images/logo.svg" alt="Node.js" width="64" height="64" />\
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="64" height="64" />
+  <img src="https://nestjs.com/logo-small-gradient.d792062c.svg" alt="Nest.js" width="64" height="64" />
   <img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="Jest" width="86" height="86" />
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySql" width="86" height="86" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="64" height="64" />
+  <img src="https://raw.githubusercontent.com/mongodb-js/leaf/master/mongodb-leaf.svg" alt="MongoDB" width="64" height="64" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" alt="MariaDB" width="64" height="64" />
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="86" height="86" />
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="86" height="86" />
   <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="86" height="86" />
   <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier" width="86" height="86" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="86" height="86" />
-
-  <img src="https://livewire.laravel.com/images/livewire-logo.png" alt="Livewire" width="64" height="64" />
-  <img src="https://filamentphp.com/images/filament-logo.svg" alt="Filament" width="64" height="64" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="Nest.js" width="64" height="64" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="64" height="64" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pug/pug-original.svg" alt="Pug" width="64" height="64" />
-  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="64" height="64" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="86" height="86" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" width="64" height="64" />
-  <img src="https://clickup.com/favicon.ico" alt="ClickUp" width="64" height="64" />
+  <img src="https://cdn.worldvectorlogo.com/logos/clickup.svg" alt="ClickUp" width="64" height="64" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Trello" width="64" height="64" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="Slack" width="64" height="64" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="64" height="64" />
-
-
-  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/laravel.svg" alt="Laravel" width="64" height="64" />
-<img src="https://raw.githubusercontent.com/livewire/livewire-assets/main/livewire-logo.svg" alt="Livewire" width="64" height="64" />
-<img src="https://raw.githubusercontent.com/filamentphp/filament/main/resources/logo.svg" alt="Filament" width="64" height="64" />
-<img src="https://raw.githubusercontent.com/nestjs/artwork/master/nestjs-logo.svg" alt="Nest.js" width="64" height="64" />
-<img src="https://raw.githubusercontent.com/pugjs/pug-logo/master/pug-logo.svg" alt="Pug" width="64" height="64" />
-
 </div>
 
 
