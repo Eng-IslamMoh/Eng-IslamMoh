@@ -19,7 +19,7 @@ I aim to continue growing as a **Backend Developer** by collaborating with talen
 ## 🤹‍♀️ Skills
 <div style="display: flex; align-items: flex-start; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="64" height="64" />
-  <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel" width="64" height="64" />
+  <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel" width="86" height="86" />
   <img src="https://cdn.worldvectorlogo.com/logos/livewire-2.svg" alt="Livewire" width="64" height="64" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="86" height="86" />
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="86" height="86" />
@@ -39,7 +39,7 @@ I aim to continue growing as a **Backend Developer** by collaborating with talen
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="64" height="64" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="86" height="86" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" width="64" height="64" />
-  <img src="https://cdn.worldvectorlogo.com/logos/clickup.svg" alt="ClickUp" width="64" height="64" />
+  <img src="https://cdn.worldvectorlogo.com/logos/clickup.svg" alt="ClickUp" width="86" height="86" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Trello" width="64" height="64" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="Slack" width="64" height="64" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="64" height="64" />
