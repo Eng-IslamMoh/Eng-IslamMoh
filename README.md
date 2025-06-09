@@ -11,12 +11,11 @@ I thrive in collaborative environments where I can apply my technical expertise,
 - Exploring modern design patterns and architectural best practices  
 - Tackling complex challenges and building solutions that scale effortlessly
 
----
 
 ## 🌟 Goals
 I aim to continue growing as a **Backend Developer** by collaborating with talented teams on meaningful projects, while constantly learning and improving my technical and leadership skills.
 
----
+--
 
 ## 🤹‍♀️ Skills
 <div style="display: flex; align-items: flex-start; gap: 10px;">
