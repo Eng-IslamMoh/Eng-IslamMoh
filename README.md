@@ -20,12 +20,14 @@ I aim to continue growing as a **Backend Developer** by collaborating with talen
 <div style="display: flex; align-items: flex-start; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="64" height="64" />
   <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel" width="64" height="64" />
+  <img src="https://raw.githubusercontent.com/livewire/livewire/master/docs/img/livewire-logo.png" alt="Livewire" width="64" height="64" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="86" height="86" />
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="86" height="86" />
   <img src="https://nodejs.org/static/images/logo.svg" alt="Node.js" width="64" height="64" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="64" height="64" />
   <img src="https://nestjs.com/logo-small-gradient.d792062c.svg" alt="Nest.js" width="64" height="64" />
   <img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="Jest" width="86" height="86" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="64" height="64" />
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySql" width="86" height="86" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="64" height="64" />
   <img src="https://raw.githubusercontent.com/mongodb-js/leaf/master/mongodb-leaf.svg" alt="MongoDB" width="64" height="64" />
@@ -41,9 +43,6 @@ I aim to continue growing as a **Backend Developer** by collaborating with talen
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Trello" width="64" height="64" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="Slack" width="64" height="64" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="64" height="64" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="64" height="64" />
-
 </div>
 
 
