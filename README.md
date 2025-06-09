@@ -1,6 +1,4 @@
-# Hi, I’m Islam Mohamed 👋
-
-## 👨‍💻 About Me
+## 👨‍💻 Islam Mohamed (Islam mohHafez)
 I’m a dedicated **Backend Developer** with a Bachelor’s degree in **Computer Science**, passionate about building scalable, secure, and high-performance backend systems.
 
 With extensive experience in **PHP**, **Node.js**, and modern frameworks like **Laravel** and **NestJS**, I specialize in designing robust APIs and architecting maintainable backend solutions. I also bring experience with **Vue.js**, **Filament**, and other web technologies, allowing me to build seamless integrations between frontend and backend.
@@ -21,12 +19,18 @@ I aim to continue growing as a **Backend Developer** by collaborating with talen
 
 ---
 
-## 🛠️ Tech Stack
-- **Languages:** PHP, JavaScript, TypeScript  
-- **Frameworks:** Laravel, NestJS, Livewire, Filament, Vue.js  
-- **Tools:** Git, Jira, ClickUp, Trello, Slack, Figma  
-- **Databases:** SQL, SQLite, NoSQL  
-- **Concepts:** OOP, SOLID, Design Patterns, Modular Architecture  
+## 🤹‍♀️ Skills
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/>
+</p>
 
 ---
 
