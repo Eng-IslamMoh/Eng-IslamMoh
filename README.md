@@ -27,6 +27,7 @@ I aim to continue growing as a **Backend Developer** by collaborating with talen
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySql" width="86" height="86" />
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="86" height="86" />
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="86" height="86" />
+  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="86" height="86" />
   <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier" width="86" height="86" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="86" height="86" />
 </div>
