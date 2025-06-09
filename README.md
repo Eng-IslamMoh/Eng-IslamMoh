@@ -19,7 +19,7 @@ I aim to continue growing as a **Backend Developer** by collaborating with talen
 ## 🤹‍♀️ Skills
 <div style="display: flex; align-items: flex-start; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="64" height="64" />
-  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/laravel.svg" alt="Laravel" width="64" height="64" />
+  <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel" width="64" height="64" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="86" height="86" />
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="86" height="86" />
   <img src="https://nodejs.org/static/images/logo.svg" alt="Node.js" width="64" height="64" />\
