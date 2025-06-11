@@ -46,10 +46,12 @@ I aim to continue growing as a **Backend Developer** by collaborating with talen
 
 
 ## 🔗 How to Reach Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/eng-islammohhafez)  
-- 📧 [Email](mailto:islam.mohhafez@gmail.com)  
-- 🐙 [GitHub](https://github.com/Eng-IslamMoh)  
+- 💼 <a href="https://www.linkedin.com/in/eng-islammohhafez" target="_blank">LinkedIn</a>
+- 📧 <a href="mailto:islam.mohhafez@gmail.com" target="_blank">Email</a>
+- 🐙 <a href="https://github.com/Eng-IslamMoh" target="_blank">GitHub</a>
+
 
 ---
+
 
 Let’s innovate and build together! 🚀
