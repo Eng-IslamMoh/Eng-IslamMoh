@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Islam Mohamed
-I’m a dedicated **Backend Developer** with a Bachelor’s degree in **Computer Science**, passionate about building scalable, secure, and high-performance backend systems.
+I’m a dedicated **Software Engineer, Backend Developer** with a Bachelor’s degree in **Computer Science**, passionate about building scalable, secure, and high-performance backend systems.
 
 With extensive experience in **PHP**, **Node.js**, and modern frameworks like **Laravel** and **NestJS**, I specialize in designing robust APIs and architecting maintainable backend solutions. I also bring experience with **Vue.js**, **Filament**, and other web technologies, allowing me to build seamless integrations between frontend and backend.
 
