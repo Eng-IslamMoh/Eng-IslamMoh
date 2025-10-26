@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Islam Mohamed
-I’m a dedicated **Software Engineer, Backend Developer** with a Bachelor’s degree in **Computer Science**, passionate about building scalable, secure, and high-performance backend systems.
+I’m a dedicated **Software Engineer** with a Bachelor’s degree in **Computer Science**, passionate about building scalable, secure, and high-performance backend systems.
 
-With extensive experience in **PHP**, **Node.js**, and modern frameworks like **Laravel** and **NestJS**, I specialize in designing robust APIs and architecting maintainable backend solutions. I also bring experience with **Vue.js**, **Filament**, and other web technologies, allowing me to build seamless integrations between frontend and backend.
+With extensive experience in **PHP**, **Node.js**, and modern frameworks like **Laravel** and **NestJS**, I specialize in designing robust APIs and architecting maintainable backend solutions. I also bring experience with **React**, **Vue.js**, **Filament**, and other web technologies, allowing me to build seamless integrations between frontend and backend.
 
 I thrive in collaborative environments where I can apply my technical expertise, solve complex challenges, and contribute to impactful projects.
 
@@ -39,6 +39,7 @@ I aim to continue growing as a **Backend Developer** by collaborating with talen
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="86" height="86" />
   <img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" alt="Apache" width="86" height="86" />
   <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="86" height="86" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react" width="64" height="64" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="64" height="64" />
   <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="Pug" width="64" height="64" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="64" height="64" />
