@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Islam Mohamed
 I’m a dedicated **Software Engineer** with a Bachelor’s degree in **Computer Science**, passionate about building scalable, secure, and high-performance backend systems.
 
-With extensive experience in **PHP**, **Node.js**, and modern frameworks like **Laravel** and **NestJS**, I specialize in designing robust APIs and architecting maintainable backend solutions. I also bring experience with **React.js**, **Vue.js**, **Filament**, and other web technologies, allowing me to build seamless integrations between frontend and backend.
+With extensive experience in **PHP**, **Node.js**, **GO**, and modern frameworks like **Laravel** and **NestJS**, I specialize in designing robust APIs and architecting maintainable backend solutions. I also bring experience with **React.js**, **Vue.js**, **Filament**, and other web technologies, allowing me to build seamless integrations between frontend and backend.
 
 I thrive in collaborative environments where I can apply my technical expertise, solve complex challenges, and contribute to impactful projects.
 
@@ -25,6 +25,7 @@ I aim to continue growing as a **Backend Developer** by collaborating with talen
   <img src="https://nodejs.org/static/images/logo.svg" alt="Node.js" width="64" height="64" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="64" height="64" />
   <img src="https://nestjs.com/logo-small-gradient.0ed287ce.svg" alt="Nest.js" width="64" height="64" />
+  <img src="https://go.dev/images/favicon-gopher.svg" alt="GO" width="64" height="64" />
   <img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="Jest" width="86" height="86" />
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySql" width="86" height="86" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="64" height="64" />
